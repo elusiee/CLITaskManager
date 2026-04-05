@@ -1,0 +1,15 @@
+[ {
+  "id" : 2,
+  "title" : "Call Chuks concerning my magazine",
+  "description" : "I intend to call chuks on 31st of this month concerning my forgotten magazine with him",
+  "completed" : false,
+  "createdAt" : "2026-04-05T23:30:33.2150074",
+  "dueDate" : "2026-04-05T23:30:33.2160078"
+}, {
+  "id" : 3,
+  "title" : "Wake up tomorrow",
+  "description" : "Wake up and brush teeth",
+  "completed" : false,
+  "createdAt" : "2026-04-05T23:49:22.6575244",
+  "dueDate" : "2026-04-05T23:49:22.6585264"
+} ]
